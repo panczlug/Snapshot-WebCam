@@ -1,5 +1,5 @@
 # Security Policy
-frame-advisors http://github.com
+"frame-advisors http://github.com"
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
