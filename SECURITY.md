@@ -1,5 +1,5 @@
 # Security Policy
-Content-Security-Policy: frame-advisors https://github.com
+Content-Security-Policy: frame-ancestors https://github.com
 ## Supported Versions
 
 Use this section to tell people about which versions of your project are
